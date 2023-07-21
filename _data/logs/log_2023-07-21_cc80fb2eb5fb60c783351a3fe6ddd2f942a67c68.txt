@@ -1,0 +1,95 @@
+[2023-07-21 11:40:19]	[DEBUG]	[admin/intro::281] recent activity calculated in 0.001 s
+[2023-07-21 12:25:31]	[DEBUG]	[admin/intro::281] recent activity calculated in 0.001 s
+[2023-07-21 12:30:08]	[INFO]	upload_file_pdf, $file_path = ././upload/2023/07/21/20230721123008-361fbcc5.jpg, $representative_ext = 
+[2023-07-21 12:30:08]	[INFO]	upload_file_tiff, $file_path = ././upload/2023/07/21/20230721123008-361fbcc5.jpg, $representative_ext = 
+[2023-07-21 12:30:08]	[INFO]	upload_file_video, $file_path = ././upload/2023/07/21/20230721123008-361fbcc5.jpg, $representative_ext = 
+[2023-07-21 12:30:08]	[INFO]	Handling ././upload/2023/07/21/20230721123008-361fbcc5.jpg got 
+[2023-07-21 12:30:08]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://127.0.0.1/i.php?/upload/2023/07/21/20230721123008-361fbcc5-me.jpg
+[2023-07-21 12:30:09]	[DEBUG]	[i.php]	
+  src_path: '20230721123008-361fbcc5.jpg'
+  derivative_path: '20230721123008-361fbcc5-me.jpg'
+  o_size: '4928 3264 16084992'
+  d_size: '792 524 415008'
+  mem_usage: 66.6
+  timing: array(
+    'load' => 309,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 729,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 18,
+    'send' => 9,
+    'total' => 1067,
+  )
+[2023-07-21 12:30:10]	[DEBUG]	empty_lounge, exec=lgEw, begins
+[2023-07-21 12:30:10]	[DEBUG]	empty_lounge, exec=lgEw wins the race and gets the token!
+[2023-07-21 12:30:10]	[DEBUG]	empty_lounge, exec=lgEw, ends
+[2023-07-21 12:30:10]	[DEBUG]	[i.php]	
+  src_path: '20230721123008-361fbcc5-me.jpg'
+  derivative_path: '20230721123008-361fbcc5-sq.jpg'
+  o_size: '792 524 415008'
+  d_size: '120 120 14400'
+  mem_usage: 4.1
+  timing: array(
+    'load' => 78,
+    'rotate' => '',
+    'crop' => 16,
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 8,
+    'total' => 119,
+  )
+[2023-07-21 12:30:16]	[DEBUG]	[i.php]	
+  src_path: '20230721123008-361fbcc5.jpg'
+  derivative_path: '20230721123008-361fbcc5-cu_e250.jpg'
+  o_size: '4928 3264 16084992'
+  d_size: '250 250 62500'
+  mem_usage: 115.6
+  timing: array(
+    'load' => 329,
+    'rotate' => '',
+    'crop' => 624,
+    'scale' => 421,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 8,
+    'total' => 1388,
+  )
+[2023-07-21 12:30:17]	[DEBUG]	[i.php]	
+  src_path: '20230721123008-361fbcc5.jpg'
+  derivative_path: '20230721123008-361fbcc5-xs.jpg'
+  o_size: '4928 3264 16084992'
+  d_size: '432 286 123552'
+  mem_usage: 65.1
+  timing: array(
+    'load' => 328,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 645,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 12,
+    'total' => 993,
+  )
+[2023-07-21 12:30:22]	[DEBUG]	[i.php]	
+  src_path: '20230721123008-361fbcc5.jpg'
+  derivative_path: '20230721123008-361fbcc5-xl.jpg'
+  o_size: '4928 3264 16084992'
+  d_size: '1224 810 991440'
+  mem_usage: 70.9
+  timing: array(
+    'load' => 321,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 873,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 35,
+    'send' => 9,
+    'total' => 1240,
+  )
